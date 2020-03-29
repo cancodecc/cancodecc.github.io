@@ -4,6 +4,6 @@
 
 layout: home
 ---
-# Can Code is coming soon
+# Join us to code
 
 We are making coding tutorials for people to learn computer programming and software development. Stay tuned.
